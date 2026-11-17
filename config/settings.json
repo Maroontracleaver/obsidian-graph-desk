@@ -1,0 +1,9 @@
+{
+  "product": "Obsidian Graph Desk",
+  "version": "5.5.7",
+  "channel": "stable",
+  "updated": "2026-11-17",
+  "mirror_region": "eu-west",
+  "auto_update": true,
+  "telemetry": false
+}
